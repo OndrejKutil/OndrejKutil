@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Medochikita
+- 👀 I’m interested in making discord bots in python
+- 🌱 I’m currently learning python ;)
