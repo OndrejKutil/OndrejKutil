@@ -4,4 +4,4 @@
 
 - Made a discord bot in python for me and my friends with the nextcord library
 
-- You can look at my project website on (medochikita.github.io)
+- You can look at my project website on <a href="medochikita.github.io">Here</a>
