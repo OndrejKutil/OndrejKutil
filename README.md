@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ondřej Kuti. I am currently studying Computer Science at Charles University in Prague
+- 👋 Hi, I’m Ondřej Kutil. I am currently studying Computer Science at Charles University in Prague
 - Languages I use - Python, C#, C++
 - You can contact me on Discord or my email
 
