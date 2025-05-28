@@ -12,10 +12,7 @@ I'm studying IT & Finance in Prague. I build practical, data-driven tools that c
 
 ---
 
-### 📂 Selected projects
-
-#### 📗 [Google Sheets Budgeting Tool with Python analysis tools](https://github.com/OndrejKutil/BudgetingDashboard)  
-Google Sheets dashboard with Python-based ETL and analytics.
+### 📂 Selected project
 
 #### 🤖 [Finance Analytics with AI](https://github.com/OndrejKutil/finance_analytics_with_ai)  
 AI-generated financial/investment tasks solved and visualized in Python.
