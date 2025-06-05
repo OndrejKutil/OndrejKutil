@@ -6,7 +6,7 @@ I'm studying IT & Finance in Prague. I build practical, data-driven tools that c
 
 ### 🛠️ Skills
 
-- **Languages:** Python, R, Java, SQL
+- **Languages:** Python, Basic R, Java, SQL
 - **Tools:** Excel, Google sheets, Tableau
 - **Other:** Git, API-integration, Modular and type-safe code
 
