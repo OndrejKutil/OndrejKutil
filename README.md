@@ -20,7 +20,7 @@ Solving AI-generated tasks in investment and financial analytics using Python �
 
 #### 📊 [Job Tracker](https://github.com/OndrejKutil/job_tracker)  
 A full-stack job tracking app with secure FastAPI backend, Supabase database, and Streamlit frontend.  
-Deployed via CI/CD from private repositories
+Deployed via CI/CD
 [→ Live preview](https://ondrejjobtracker.streamlit.app/)
 
 ---
