@@ -15,8 +15,8 @@ I'm a student of IT & Finance based in Prague. I build data-driven tools that co
 
 ### 📂 Selected Projects
 
-#### 🔎 [Finance Analytics with AI](https://github.com/OndrejKutil/finance_analytics_with_ai)  
-Solving AI-generated tasks in investment and financial analytics using Python — EDA, visualization, pandas, and decision-making logic.
+#### 🔎 [Data Analytics Case Studies](https://github.com/OndrejKutil/data_analytics_case_studies)  
+Solving case studies from various fields using Python — EDA, visualization, storytelling, and decision-making logic.
 
 #### 📊 [Job Tracker](https://github.com/OndrejKutil/job_tracker)  
 A full-stack job tracking app with secure FastAPI backend, Supabase database, and Streamlit frontend.  
