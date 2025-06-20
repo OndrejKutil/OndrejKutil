@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ondřej Kutil
 
-I'm a student of IT & Finance based in Prague. I build data-driven tools that combine financial insight with backend logic, automation, and visual storytelling. I focus on real-world applications — from personal finance tracking to full-stack job analytics platforms.
+I'm a student of IT & Finance university based in Prague. I build data-driven tools that combine financial insight with backend logic, automation, and visual storytelling. I focus on real-world applications — from personal finance tracking to full-stack job analytics platforms.
 
 ---
 
