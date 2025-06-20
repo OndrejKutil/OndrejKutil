@@ -25,7 +25,4 @@ Deployed via CI/CD
 
 ---
 
-📬 kutil.ondra@outlook.cz  
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ondřej-kutil-342a97256)  
-[![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/551050009626542102)
-
+📬 kutil.ondra@outlook.cz | [LinkedIn](https://linkedin.com/in/ondřej-kutil-342a97256) | [Discord](https://discordapp.com/users/551050009626542102)
