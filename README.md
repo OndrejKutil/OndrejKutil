@@ -13,7 +13,7 @@ I'm a student of IT & Finance university based in Prague. I build data-driven to
 
 ---
 
-### 📂 Selected Projects
+### 📂 Selected Repositories
 
 #### 🔎 [Data Analytics Case Studies](https://github.com/OndrejKutil/data_analytics_case_studies)  
 Solving case studies from various fields using Python — EDA, visualization, storytelling, and decision-making logic.
