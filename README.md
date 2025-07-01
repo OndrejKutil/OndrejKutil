@@ -2,7 +2,7 @@
 
 I’m a student of IT & Finance based in Prague. I build data-driven tools that combine financial insight with backend logic, automation, and visual storytelling.
 
-I'm currently seeking junior roles or internships that connect finance, data, and tech — like investment analytics. I want to grow my career and contribute to solving real-world problems while still studying.
+Currently seeking junior roles or internships that connect finance, data, and tech. Ready to contribute
 
 ---
 
