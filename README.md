@@ -25,4 +25,6 @@ A full-stack job tracking app. Built to explore app development, databases, and 
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OndrejKutil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 📬 kutil.ondra@outlook.cz | [LinkedIn](https://linkedin.com/in/ondřej-kutil-342a97256) | [Discord](https://discordapp.com/users/551050009626542102)
