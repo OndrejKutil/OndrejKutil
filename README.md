@@ -19,9 +19,9 @@ Currently seeking junior roles or internships that connect finance, data, and te
 #### 🔎 [Data Analytics Case Studies](https://github.com/OndrejKutil/data_analytics_case_studies)  
 Case studies from various domains — focused on EDA, data visualization, storytelling, and decision-making logic.
 
-#### 📊 [Job Tracker](https://github.com/OndrejKutil/job_tracker)  
-A full-stack job tracking app. Built to explore app development, databases, and secure API integration.  
-[→ Live preview](https://ondrejjobtracker.streamlit.app/)
+#### 📊 [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
+A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
+[→ Live preview](https://budgeting-dashboard-frontend.onrender.com/)
 
 ---
 
