@@ -9,7 +9,7 @@ Junior Financial Analyst @ Billigence
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python, SQL, basic Java and R
-- **Data Tools:** Tableau  
+- **Data Tools:** Tableau, Excel  
 - **Other:** Microsoft 365, Google Workspace
 
 ---
