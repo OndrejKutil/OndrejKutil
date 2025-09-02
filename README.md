@@ -8,16 +8,16 @@ Junior Financial Analyst @ Billigence
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Python, SQL, basic R, Java  
-- **Data Tools:** Microsoft 365, Google Workspace, Power BI  
-- **Other:** Git, REST APIs, CI/CD pipelines, modular and type-safe code
+- **Languages:** Python, SQL, basic Java and R
+- **Data Tools:** Tableau  
+- **Other:** Microsoft 365, Google Workspace
 
 ---
 
 ### 📂 Selected Repositories
 
 #### 🔎 [Data Analytics Case Studies](https://github.com/OndrejKutil/data_analytics_case_studies)  
-Case studies from various domains — focused on EDA, data visualization, storytelling, and decision-making logic.
+Case studies focused on EDA, data visualization, storytelling, and decision-making logic using Python
 
 #### 📊 [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
