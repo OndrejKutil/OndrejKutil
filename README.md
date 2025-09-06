@@ -2,8 +2,6 @@
 
 I’m a student of IT & Finance based in Prague. I build data-driven tools that combine financial insight with backend logic, automation, and visual storytelling.
 
-Junior Financial Analyst @ Billigence
-
 ---
 
 ### 🛠️ Skills & Technologies
