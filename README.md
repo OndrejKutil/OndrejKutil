@@ -6,7 +6,7 @@ I’m a student of IT & Finance based in Prague. I build data-driven tools that 
 
 ### Skills & Technologies
 
-- **Languages:** Python, SQL, basic Java and R
+- **Languages:** Python, SQL, learning C++ and Java
 - **Data Tools:** Tableau, Excel, Snowflake
 - **Other:** Microsoft 365, Google Workspace
 
