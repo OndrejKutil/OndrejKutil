@@ -23,6 +23,7 @@ A full-stack budget tracker. From frontend to database connection, all secure an
 
 #### [Learning C++](https://github.com/OndrejKutil/learning_cplusplus)
 Repository dedicated to projects on my journey of learning C++, comming from mainly high level languages
+
 Selected project - [Monte Carlo Pi approximation with visualization](https://github.com/OndrejKutil/learning_cplusplus/blob/main/docs/visualizations/MCpiApproximation.md)
 
 ---
