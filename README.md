@@ -6,15 +6,15 @@ I’m a student of IT & Finance based in Prague. I build data-driven tools that 
 
 ### Skills & Technologies
 
-- **Languages:** Python, SQL, learning C++ and Java
+- **Languages:** Python, SQL, learning C++
 - **Data Tools:** Tableau, Excel, Snowflake
-- **Other:** Microsoft 365, Google Workspace
+- **Other:** AWS basics, AI, n8n
 
 ---
 
 ### Selected Repositories
 
-#### [Data Analytics Case Studies](https://github.com/OndrejKutil/data_analytics_case_studies)  
+#### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies)  
 Case studies focused on EDA, data visualization, storytelling, and decision-making logic using Python
 
 #### [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
