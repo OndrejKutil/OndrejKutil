@@ -15,16 +15,13 @@ I’m a student of IT & Finance based in Prague. I build data-driven tools that 
 ### Selected Repositories
 
 #### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies)  
-Case studies focused on EDA, data visualization, storytelling, and decision-making logic using Python
+Case studies mainly focused on developing ML models, but also showing EDA, dataset cleaning and statistical knowledge
 
 #### [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
-[→ Live preview](https://budgeting-dashboard-frontend.onrender.com/)
 
-#### [Learning C++](https://github.com/OndrejKutil/learning_cplusplus)
-Repository dedicated to projects on my journey of learning C++, comming from mainly high level languages
-
-Selected project - [Monte Carlo Pi approximation with visualization](https://github.com/OndrejKutil/learning_cplusplus/blob/main/docs/visualizations/MCpiApproximation.md)
+#### [Learning C++](https://github.com/OndrejKutil/learning_cplusplus) and [Learning R](https://github.com/OndrejKutil/learning_R)
+Repositories dedicated to learning new programming languages. R to support Python in Data Analysis and C++ to learn more about low lever languages
 
 ---
 
