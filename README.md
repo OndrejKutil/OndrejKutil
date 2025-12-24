@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ondřej Kutil
 
-I’m a student of IT & Finance based in Prague. I build data-driven tools that combine financial insight with backend logic, automation, and visual storytelling.
+I’m a student of IT & Finance based in Prague. I build data-driven systems that combine financial insight with backend logic, automation, and visual storytelling.
 
 ---
 
@@ -8,7 +8,7 @@ I’m a student of IT & Finance based in Prague. I build data-driven tools that 
 
 - **Languages:** Python, SQL, learning R and C++
 - **Data Tools:** Tableau, Excel, Snowflake
-- **Other:** AWS basics, AI, n8n
+- **Other:** Cloud basics, n8n, AI systems
 
 ---
 
@@ -20,8 +20,8 @@ Case studies mainly focused on developing ML models, but also showing EDA, datas
 #### [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
 
-#### [Learning C++](https://github.com/OndrejKutil/learning_cplusplus) and [Learning R](https://github.com/OndrejKutil/learning_R)
-Repositories dedicated to learning new programming languages. R to support Python in Data Analysis and C++ to learn more about low lever languages
+#### [Order book implementation (C++ & Python)](https://github.com/OndrejKutil/order_book_implementation)
+Implemented full logic of limit order book in C++ and exposed it to Python for simulating the market with multiple agents
 
 ---
 
