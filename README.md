@@ -17,10 +17,10 @@ I’m a student of IT & Finance based in Prague. I build data-driven systems tha
 #### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies)  
 Case studies mainly focused on developing ML models, but also showing EDA, dataset cleaning and statistical knowledge
 
-#### [Budget dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
+#### [Budget Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
 
-#### [Order book implementation (C++ & Python)](https://github.com/OndrejKutil/order_book_implementation)
+#### [Limit Order Book Implementation (C++ & Python)](https://github.com/OndrejKutil/order_book_implementation)
 Implemented full logic of limit order book in C++ and exposed it to Python for simulating the market with multiple agents
 
 ---
