@@ -6,9 +6,9 @@ I’m a student of IT & Finance based in Prague. I build data-driven systems tha
 
 ### Skills & Technologies
 
-- **Languages:** Python, SQL, learning R and C++
-- **Data Tools:** Tableau, Excel, Snowflake
-- **Other:** Cloud basics, n8n, AI systems
+- **Languages:** Python, SQL, basics of R, C++ and Typescript
+- **Data Tools:** Tableau, Excel, PostgreSQL and Snowflake databases
+- **Other:** Cloud deployment, n8n, AI systems
 
 ---
 
@@ -18,7 +18,8 @@ I’m a student of IT & Finance based in Prague. I build data-driven systems tha
 Case studies mainly focused on developing ML models, but also showing EDA, dataset cleaning and statistical knowledge
 
 #### [Budget Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
-A full-stack budget tracker. From frontend to database connection, all secure and developer friendly. Using Supabase Auth and JWT tokens
+A full-stack application for managing personal finances. Built using modern tools, with focus on great UX. 
+[→ Live app](https://budgeting-dashboard-site.onrender.com/)
 
 #### [Limit Order Book Implementation (C++ & Python)](https://github.com/OndrejKutil/order_book_implementation)
 Implemented full logic of limit order book in C++ and exposed it to Python for simulating the market with multiple agents
