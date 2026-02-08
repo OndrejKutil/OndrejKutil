@@ -14,8 +14,8 @@ I’m a student of IT & Finance based in Prague. I build data-driven systems tha
 
 ### Selected Repositories
 
-#### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies)  
-Case studies mainly focused on developing ML models, but also showing EDA, dataset cleaning and statistical knowledge
+#### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies) and [Algorithms from scratch](https://github.com/OndrejKutil/from_scratch)
+Data analysis case studies, ML models and EDA. Also complemented by the second repository, where I am implementing some popular models by hand to understand the underlying logic.
 
 #### [Budget Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack application for managing personal finances. Built using modern tools, with focus on great UX. 
