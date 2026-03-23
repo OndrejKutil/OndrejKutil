@@ -14,16 +14,15 @@ I’m a student of IT & Finance based in Prague. I build data-driven systems tha
 
 ### Selected Repositories
 
-#### [Data Analytics](https://github.com/OndrejKutil/data_analytics_case_studies) and [Algorithms from scratch](https://github.com/OndrejKutil/from_scratch)
-Data analysis case studies, ML models and EDA. Also complemented by the second repository, where I am implementing some popular models by hand to understand the underlying logic.
-
-#### [Budget Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
-A full-stack application for managing personal finances. Built using modern tools, with focus on great UX. 
-[→ Live app](https://budgeting-dashboard-site.onrender.com/)
+#### [EY 2026 Data & AI Challenge](https://github.com/OndrejKutil/EY_data_challenge)
+Developed a predictive ML model to forecast water quality in South African rivers. Utilized Snowflake and satellite imagery to address critical environmental infrastructure—placing technical skills in the context of real-world impact.
 
 #### [Limit Order Book Implementation (C++ & Python)](https://github.com/OndrejKutil/order_book_implementation)
-Implemented full logic of limit order book in C++ and exposed it to Python for simulating the market with multiple agents
+Built a high-performance limit order book in C++ with a Python extension via pybind11. Designed for market simulation, it demonstrates a deep understanding of data structures, memory management, and quantitative finance logic.
+
+#### [Budget Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
+A full-stack personal finance application focused on UX and data visualization. Integrates backend automation with a modern frontend to help users achieve financial clarity. [→ Live app](https://budget.ondrejkutil.com)
 
 ---
 
-kutil.ondrej@outlook.com | [LinkedIn](https://linkedin.com/in/ondřej-kutil-342a97256) | [Discord](https://discordapp.com/users/551050009626542102)
+[me@ondrejkutil.com](mailto:me@ondrejkutil.com) | [LinkedIn](https://www.linkedin.com/in/ondrej-kutil/) | [Discord](https://discordapp.com/users/551050009626542102)
