@@ -20,7 +20,7 @@ Developed a predictive ML model to forecast water quality in South African river
 #### [SQL Analytics Snippets](https://github.com/OndrejKutil/SQL_snippets)
 Practical examples of SQL applied to data cleaning, aggregations, and business metrics. Serves as a foundational reference for BI development, data analytics or data engineering.
 
-#### [Spendio](https://github.com/OndrejKutil/budgeting_dashboard)
+#### [Budgeting Dashboard](https://github.com/OndrejKutil/budgeting_dashboard)
 A full-stack personal finance application focused on UX and data visualization. Integrates backend automation with a modern frontend to help users achieve financial clarity. [→ Live app](https://budget.ondrejkutil.com)
 
 ---
